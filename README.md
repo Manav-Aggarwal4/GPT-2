@@ -6,3 +6,5 @@ In order to apply my ML knowledge, I built two ML models using PyTorch 🔥:
 
 2. I'm currently working on the second model, which will have similar performance to OpenAI's GPT2!
 
+   Andrej Karpathy is the  🐐
+
